@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360VideoTour.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 34e64c8f56623204ea56ea5e738baeca, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8b28caf3ac6ecad4c915aa71b9f3774c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 53039e112a365364488b3f0a7eafe612, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2ee876a3fe16d5641861e51e9cac755a, type: 2}
